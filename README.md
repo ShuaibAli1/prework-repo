@@ -42,3 +42,10 @@ gif link here : http://g.recordit.co/R8qR2gtzLS.gif
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words)
    Adding other buttons with distinct sounds, as well as having the game play a song instead of a pattern, are two more improvements that I believe would be interesting and unique. There can be many levels of difficulty; for example, on an easy level, the website may display the user which buttons are clicked and for how long, or on a tough level, the buttons may be concealed until the song is done, and the user must guess the song from the sounds played. This would require the production of a large number of different song patterns in different arrays. All of these different arrays may be merged into a larger array, which can then be used to choose a music array at random from the larger array.
+   
+   
+   
+  ## Interview Recording URL Link
+
+[My 5-minute Interview Recording] ( https://youtu.be/NGgqz4Sg4_I)
+
