@@ -24,7 +24,7 @@ The following **required** functionality is complete:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories: <br>
-My 5 min video interview : https://youtu.be/NGgqz4Sg4_I <br>
+
 gif link here : http://g.recordit.co/R8qR2gtzLS.gif 
 
 ## Reflection Questions
