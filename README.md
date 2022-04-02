@@ -4,10 +4,8 @@ Light & Sound Memory game to apply for CodePath's SITE Program.
 
 Submitted by: Shuaib Ali
 
-Glitch :  https://gratis-clever-pearl.glitch.me/ <br>
- 
 
-Time spent: 5 hours 3
+ Time spent: 5 hours 3
 
 Link to project:  https://gratis-clever-pearl.glitch.me/
 
