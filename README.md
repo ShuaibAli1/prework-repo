@@ -5,7 +5,7 @@ Light & Sound Memory game to apply for CodePath's SITE Program.
 Submitted by: Shuaib Ali
 
 Glitch :  https://gratis-clever-pearl.glitch.me/ <br>
-My 5 min video interview : https://youtu.be/NGgqz4Sg4_I
+ 
 
 Time spent: 5 hours 3
 
@@ -25,9 +25,9 @@ The following **required** functionality is complete:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
-My 5 min video interview : https://youtu.be/NGgqz4Sg4_I
-Add gif link here
+Here's a walkthrough of implemented user stories: <br>
+My 5 min video interview : https://youtu.be/NGgqz4Sg4_I <br>
+gif link here : http://g.recordit.co/R8qR2gtzLS.gif 
 
 ## Reflection Questions
 
