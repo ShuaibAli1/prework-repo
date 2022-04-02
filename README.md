@@ -9,7 +9,7 @@ Glitch :  https://gratis-clever-pearl.glitch.me/ <br>
 
 Time spent: 5 hours 3
 
-Link to project:
+Link to project:  https://gratis-clever-pearl.glitch.me/
 
 ## Required Functionality
 
