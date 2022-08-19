@@ -43,9 +43,7 @@ gif link here : http://g.recordit.co/R8qR2gtzLS.gif
    
    
    
-  ## Interview Recording URL Link
-
-[My 5-minute Interview Recording] ( https://youtu.be/NGgqz4Sg4_I)
+ 
 
 
 
